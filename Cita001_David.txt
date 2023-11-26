@@ -1,0 +1,4 @@
+Nombre del Paciente: David
+Fecha de Citas: 30/11/2023 00:00:00
+Razón de Consulta: Blaqueamiento Dental
+Costo de Consulta: 25
